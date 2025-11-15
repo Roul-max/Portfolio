@@ -18,7 +18,7 @@ export default function Projects() {
         "Full-featured online shopping platform with cart, checkout, and payment integration.",
       tech: ["React", "Node.js", "MongoDB", "Stripe"],
       image: img1,
-      github: "#",
+      github: "https://github.com/Roul-max/Wellness",
       demo: "#",
     },
     {
