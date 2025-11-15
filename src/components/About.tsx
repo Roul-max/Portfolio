@@ -45,7 +45,7 @@ export default function About() {
               Full Stack Developer & Designer
             </h3>
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-              With over 1+ years of experience in web development, I specialize in building scalable,
+              With over 1.5+ years of experience in web development, I specialize in building scalable,
               user-friendly applications using modern technologies. My passion lies in creating
               elegant solutions to complex problems.
             </p>
