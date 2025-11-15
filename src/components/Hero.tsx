@@ -53,7 +53,7 @@ export default function Hero() {
             className="flex flex-wrap gap-4 justify-center"
           >
             <a
-              href="/src/assets/resume.pdf"
+              href="resume.pdf"
               download
               className="flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-blue-500 to-cyan-500 text-white rounded-full font-semibold hover:shadow-xl hover:scale-105 transition-all"
             >
